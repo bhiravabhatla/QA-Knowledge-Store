@@ -2,9 +2,9 @@
 
 * https://github.com/DannyDainton/All-Things-Postman/
 
-A Good resource on how to use Postman.
+      A Good resource on how to use Postman.
 
-**Expertise Level** : Beginner to Expert
+      **Expertise Level** : Beginner to Expert
 
 * http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf
 
