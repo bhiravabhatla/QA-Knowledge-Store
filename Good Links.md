@@ -9,3 +9,7 @@
 
 * http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf
 
+* http://ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;
+ 
+    Git Cheatsheet
+
